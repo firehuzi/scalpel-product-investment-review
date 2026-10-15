@@ -63,14 +63,17 @@
 ```text
 product-investment-review/
 ├── SKILL.md                       # 入口：身份、硬性约束、Step 0–9、输出格式
-├── references/anti-patterns.md    # 检查表正文：10 类错位 + 判定标准 + 强制动作
-└── memory/decision-log.md         # Decision Ledger 格式（只留规范，条目由你自己积累）
+├── references/anti-patterns.md    # 检查表正文：11 条错位 + 判定标准 + 强制动作
+└── memory/decision-log.md         # 真实 Decision Ledger：4 条记录，含已填的 Outcome
 ```
 
-> **关于案例数据**：本仓库的 `anti-patterns.md` 保留了全部检查项、判定标准与机制，
-> 但其中来自真实项目组合的「本例证据」已**脱敏**——项目名替换为 `项目 A/B/C…`，
-> 绝对内部指标替换为相对变化。Decision Ledger 只发布格式模板。
-> 也就是说：**你拿到的是方法，不是别人的档案。**
+> **关于案例数据**：`references/anti-patterns.md` 保留了全部检查项、判定标准与机制；
+> `memory/decision-log.md` 保留了**完整真实档案**——4 条记录、已填的 Outcome、
+> 甚至那次「判了 🔴 的项目照样建成」的自我判决。
+>
+> 两份文件里的**项目名一律替换为 `项目 A/B/C…` 代称**，路径与部署地址已移除；
+> **日期、数字、判断与推理全部保留**，因为那是这份档案的证据价值所在。
+> 也就是说：你拿到的是方法，和一份真实档案的形状——不是别人的项目清单。
 
 ---
 
