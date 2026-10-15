@@ -1,0 +1,13 @@
+# 你自己的决策档案不进版本库（这是方法仓库，不是档案仓库）
+memory/decision-log.local.md
+
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python（如果你给它加了脚本）
+__pycache__/
+*.py[cod]
